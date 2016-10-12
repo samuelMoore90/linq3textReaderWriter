@@ -1,0 +1,6 @@
+C:\AdvProg\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.exe.config
+C:\AdvProg\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.exe
+C:\AdvProg\TextReaderWriter\TextReaderWriter\bin\Debug\TextReaderWriter.pdb
+C:\AdvProg\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.csprojResolveAssemblyReference.cache
+C:\AdvProg\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.exe
+C:\AdvProg\TextReaderWriter\TextReaderWriter\obj\Debug\TextReaderWriter.pdb
